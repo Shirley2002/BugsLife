@@ -1,7 +1,7 @@
 # BugsLife
 This project's main
 objective is to track all the issues from ongoing software development projects so that the issue can be created, shared and discuss with the rest of the team to quicken the process of 
-resolving the issue.
+resolving the issue. A basic GUI was also developed using JavaSwing for this project. 
 
 ### Project Features Description
 I. User Interface:
